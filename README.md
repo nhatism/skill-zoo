@@ -1,6 +1,8 @@
 # Skill Zoo
 
-A deliberately small collection of failure-driven skills for AI coding agents. Every resident instruction pays rent in tokens. **Skills are useful. Context isn't free.** Make it earn its room.
+A deliberately small collection of failure-driven skills for AI coding agents.
+
+**Skills are useful. Context isn't free. Make it earn its room.**
 
 <p align="center">
   <img src="./assets/consbar.gif" width="400" alt="Under Construction">
@@ -10,38 +12,26 @@ A deliberately small collection of failure-driven skills for AI coding agents. E
 
 A skill must justify:
 
-1. **Existence** — What concrete failure does it prevent?
-2. **Residency** — Why must it stay in permanent context?
+1. **Existence** — What concrete failure does it address?
+2. **Residency** — Why should it pay permanent context rent?
 3. **Claim** — What evidence supports what we say it does?
-
-Useful does not automatically mean resident.
 
 ```text
 installed ≠ resident ≠ invoked
 ```
 
-The current resident budget is deliberately small. These are ceilings, not targets:
-
-```text
-5 files
-50 KB
-```
-
-## Philosophy
-
-Real work creates candidates. No new skill is a valid outcome.
-
-```text
-recurring failure
-→ local rule
-→ survives use
-→ candidate skill
-→ admit / on-demand / local / reject
-```
+Useful does not automatically mean resident.
 
 See [`CONSTITUTION.md`](CONSTITUTION.md) for the operating rules.
 
+## Current status
+
+There are **no resident skills yet**.
+
+[`git-steward-core.md`](incubator/git-steward-core.md) currently has a day pass as an **evaluation candidate**.
+
+Development evidence suggests it can reduce unauthorized shared-history rewrites, but one escape attempt still got through. It gets another round in the ring before it gets a permanent cage in the zoo.
+
 ---
 
-**WE HAVE TWO FILES. PLEASE CALM DOWN.**
-
+**UNDER CONSTRUCTION. PLEASE DO NOT FEED THE EVIDENCE.**
